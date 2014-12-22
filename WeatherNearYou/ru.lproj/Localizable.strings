@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  WeatherNearYou
+
+  Created by Konstantin Snegov on 24/11/14.
+  Copyright (c) 2014 Konstantin Snegov. All rights reserved.
+*/
+
+// Static data
+"Kelvin" = "Кельвин";
+"Celsius" = "Цельсий";
+"Fahrenheit" = "Фаренгейт";
+"hPa" = "гПа";
+"Pa" = "Па";
+"mmHg" = "мм";
+"km/h" = "км/ч";
+"m/s" = "м/с";
+"mile/h" = "миль/ч";
+"12 hours" = "12 часов";
+"24 hours" = "24 часа";
+
+// Dialogs
+"Weather downloading" = "Получение погоды";
+"Can't get weather" = "Невозможно получить погоду";
+"Location error" = "Ошибка локации";
+"Settings" = "Настройки";
+
+// Errors
+"Location service disabled" = "Служба локации отключена";
+"The app doesn't have permissions for using location" = "У приложения недостаточно прав для определения текущего местоположения";
+
+// Thunderstorm
+"thunderstorm with light rain" = "Гроза со слабым дождем";
+"thunderstorm with rain" = "Гроза с дождем";
+"thunderstorm with heavy rain" = "Гроза с сильным дождем";
+"light thunderstorm" = "Легкая гроза";
+"thunderstorm" = "Гроза";
+"heavy thunderstorm" = "Сильная гроза";
+"ragged thunderstorm" = "Рваная гроза";
+"thunderstorm with light drizzle" = "Гроза со слабой изморосью";
+"thunderstorm with drizzle" = "Гроза с изморосью";
+"thunderstorm with heavy drizzle" = "Гроза с сильной изморосью";
+
+// Drizzle
+"light intensity drizzle" = "Слабая изморось";
+"drizzle" = "Изморось";
+"heavy intensity drizzle" = "Сильная изморось";
+"light intensity drizzle rain" = "Слабый мелкий дождь";
+"drizzle rain" = "Мелкий дождь";
+"heavy intensity drizzle rain" = "Сильный мелкий доджь";
+"shower rain and drizzle" = "Ливень с изморосью";
+"heavy shower rain and drizzle" = "Сильный ливень с изморосью";
+"shower drizzle" = "Проливная изморось";
+
+// Rain
+"light rain" = "Слабый дождь";
+"moderate rain" = "Дождь";
+"heavy intensity rain" = "Сильный дождь";
+"very heavy rain" = "Очень сильный дождь";
+"extreme rain" = "Экстремальный дождь";
+"freezing rain" = "Ледяной дождь";
+"light intensity shower rain" = "Слабый ливень";
+"shower rain" = "Ливень";
+"heavy intensity shower rain" = "Сильный ливень";
+"ragged shower rain" = "Рваный ливень";
+
+// Snow
+"light snow" = "Легкий снег";
+"snow" = "Снег";
+"heavy snow" = "Сильный снегопад";
+"sleet" = "Мокрый снег";
+"shower sleet" = "Сильный мокрый снег";
+"light rain and snow" = "Мелкий снег с дождем";
+"rain and snow" = "Снег с дождем";
+"light shower snow" = "Легкий снегопад";
+"shower snow" = "Снегопад";
+"heavy shower snow" = "Сильный снегопад";
+
+// Atmosphere
+"mist" = "Дымка";
+"smoke" = "Дым";
+"haze" = "Легкий туман";
+"sand, dust whirls" = "Песок, пыльные вихри";
+"fog" = "Туман";
+"sand" = "Песок";
+"dust" = "Пыль";
+"volcanic ash" = "Вулканический пепел";
+"squalls" = "Шквал";
+"tornado" = "Торнадо";
+
+// Clouds
+"clear sky" = "Ясно";
+"few clouds" = "Небольшая облачность";
+"scattered clouds" = "Рассеянные облака";
+"broken clouds" = "Разорванные облака";
+"overcast clouds" = "Пасмурно";
+"sky is clear" = "Ясно";
+
+// Extreme
+"tornado" = "Торнадо";
+"tropical storm" = "Тропический шторм";
+"hurricane" = "Ураган";
+"cold" = "Холод";
+"hot" = "Жара";
+"windy" = "Ветренно";
+"hail" = "Град";
+
+// Additional
+"calm" = "Штиль";
+"light breeze" = "Легкий ветер";
+"gentle breeze" = "Слабый ветер";
+"moderate breeze" = "Умеренный ветер";
+"fresh breeze" = "Свежий ветер";
+"strong breeze" = "Сильный ветер";
+"high wind, near gale" = "Сильный ветер, почти буря";
+"gale" = "Буря";
+"severe gale" = "Сильная буря";
+"storm" = "Шторм";
+"violent storm" = "Сильный шторм";
+"hurricane" = "Ураган";

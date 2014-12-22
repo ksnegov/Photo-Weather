@@ -1,0 +1,54 @@
+
+/* Class = "IBUILabel"; text = "Pressure:"; ObjectID = "1ya-fW-AgV"; */
+"1ya-fW-AgV.text" = "Давление:";
+
+/* Class = "IBUILabel"; text = "--:--"; ObjectID = "1za-2S-w4C"; */
+"1za-2S-w4C.text" = "--:--";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "3LU-vJ-qXO"; */
+"3LU-vJ-qXO.text" = "--";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "Eq3-X8-6c1"; */
+"Eq3-X8-6c1.text" = "--";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "HGy-rb-LSK"; */
+"HGy-rb-LSK.text" = "--";
+
+/* Class = "IBUILabel"; text = "Sunrise:"; ObjectID = "L3e-Qw-ZG1"; */
+"L3e-Qw-ZG1.text" = "Восход:";
+
+/* Class = "IBUILabel"; text = "Pressure"; ObjectID = "LlV-pY-3Ku"; */
+"LlV-pY-3Ku.text" = "Давление";
+
+/* Class = "IBUILabel"; text = "Temperature"; ObjectID = "OpZ-Wr-eGb"; */
+"OpZ-Wr-eGb.text" = "Температура";
+
+/* Class = "IBUILabel"; text = "Sunset:"; ObjectID = "SJc-Ii-TvV"; */
+"SJc-Ii-TvV.text" = "Закат:";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "e7A-u8-7bx"; */
+"e7A-u8-7bx.text" = "--";
+
+/* Class = "IBUILabel"; text = "Humidity:"; ObjectID = "e8z-xX-eoH"; */
+"e8z-xX-eoH.text" = "Влажность:";
+
+/* Class = "IBUILabel"; text = "Wind speed"; ObjectID = "jpB-if-dyV"; */
+"jpB-if-dyV.text" = "Скорость ветра";
+
+/* Class = "IBUILabel"; text = "--:--"; ObjectID = "n4u-Sg-sw7"; */
+"n4u-Sg-sw7.text" = "--:--";
+
+/* Class = "IBUILabel"; text = "Clouds:"; ObjectID = "oa6-gQ-0oi"; */
+"oa6-gQ-0oi.text" = "Облачность:";
+
+/* Class = "IBUILabel"; text = "Wind:"; ObjectID = "s3q-WP-05f"; */
+"s3q-WP-05f.text" = "Ветер:";
+
+/* Class = "IBUILabel"; text = "Time format"; ObjectID = "tK5-6j-uB4"; */
+"tK5-6j-uB4.text" = "Формат времени";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "ty0-oS-9c9"; */
+"ty0-oS-9c9.text" = "--";
+
+/* Class = "IBUILabel"; text = "--"; ObjectID = "uQW-cH-uKI"; */
+"uQW-cH-uKI.text" = "--";

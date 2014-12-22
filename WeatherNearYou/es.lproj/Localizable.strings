@@ -1,0 +1,120 @@
+/*
+ Localizable.strings
+ WeatherNearYou
+ 
+ Created by Konstantin Snegov on 24/11/14.
+ Copyright (c) 2014 Konstantin Snegov. All rights reserved.
+ */
+
+// Static data
+"Kelvin" = "Kelvin";
+"Celsius" = "Celsius";
+"Fahrenheit" = "Fahrenheit";
+"hPa" = "hPa";
+"Pa" = "PA";
+"mmHg" = "mm";
+"km/h" = "km/h";
+"m/s" = "m/s";
+"mile/h" = "millas/h";
+"12 hours" = "Doce horas";
+"24 hours" = "Veinte cuatro horas";
+
+// Dialogs
+"Weather downloading" = "Descargando tiempo";
+"Can't get weather" = "Imposible descargar el tiempo";
+"Location error" = "Error de la emplazamiento";
+"Settings" = "Afinaciónes";
+
+// Errors
+"Location service disabled" = "Servicio de la emplazamiento desconectado";
+"The app doesn't have permissions for using location" = "La aplicación no tiene permiso para fijar Su sitio";
+
+// Thunderstorm
+"thunderstorm with light rain" = "Tormenta con lluvia suave";
+"thunderstorm with rain" = "Tormenta con lluvia";
+"thunderstorm with heavy rain" = "Tormenta con lluvia fuerte";
+"light thunderstorm" = "Tormenta ligera";
+"thunderstorm" = "Tormenta";
+"heavy thunderstorm" = "Tormenta fuerte";
+"ragged thunderstorm" = "Tormenta rota";
+"thunderstorm with light drizzle" = "Tormenta con llovizna suave";
+"thunderstorm with drizzle" = "Tormenta con llovizna";
+"thunderstorm with heavy drizzle" = "Tormenta con llovizna fuerte";
+
+// Drizzle
+"light intensity drizzle" = "Llovizna suave";
+"drizzle" = "Llovizna";
+"heavy intensity drizzle" = "Llovizna fuerte";
+"light intensity drizzle rain" = "Lluvia menuda y suave";
+"drizzle rain" = "Lluvia menuda";
+"heavy intensity drizzle rain" = "Lluvia menuda y fuerte";
+"shower rain and drizzle" = "Aguacero con llovizna";
+"heavy shower rain and drizzle" = "Aguacero fuerte con llovizna";
+"shower drizzle" = "Chaparrón";
+
+// Rain
+"light rain" = "Lluvia suave";
+"moderate rain" = "Lluvia";
+"heavy intensity rain" = "Lluvia fuerte";
+"very heavy rain" = "Lluvia muy fuerte";
+"extreme rain" = "Lluvia extremado";
+"freezing rain" = "lluvia glacial";
+"light intensity shower rain" = "Aguacero ligero";
+"shower rain" = "Aguacero";
+"heavy intensity shower rain" = "Chaparrón fuerte";
+"ragged shower rain" = "Chaparrón roto";
+
+// Snow
+"light snow" = "Nieve suave";
+"snow" = "Nieve";
+"heavy snow" = "Nevada fuerte";
+"sleet" = "Aguanieve";
+"shower sleet" = "Aguanieve fuerte";
+"light rain and snow" = "Nieve fina con lluvia";
+"rain and snow" = "Nieve con lluvia";
+"light shower snow" = "Nevada suave";
+"shower snow" = "Nevada";
+"heavy shower snow" = "Nevada fuerte";
+
+// Atmosphere
+"mist" = "Velo";
+"smoke" = "Humo";
+"haze" = "Neblina";
+"sand, dust whirls" = "Arena, Dieblo de polvo";
+"fog" = "Niebla";
+"sand" = "Arena";
+"dust" = "Polvo";
+"volcanic ash" = "Ceniza volcánica";
+"squalls" = "Ráfaga";
+"tornado" = "Tornado";
+
+// Clouds
+"clear sky" = "Esta despejando";
+"few clouds" = "Parcialmente nublado";
+"scattered clouds" = "Nubes dispersas";
+"broken clouds" = "Nubes rotas";
+"overcast clouds" = "Esta nublado";
+"sky is clear" = "Esta despejando";
+
+// Extreme
+"tornado" = "Tornado";
+"tropical storm" = "La tormenta tropical";
+"hurricane" = "Huracán";
+"cold" = "Frío";
+"hot" = "Calor";
+"windy" = "Ventoso";
+"hail" = "Granizo";
+
+// Additional
+"calm" = "Calma";
+"light breeze" = "Viento ligero";
+"gentle breeze" = "Viento suave";
+"moderate breeze" = "Viento templado";
+"fresh breeze" = "Viento libre";
+"strong breeze" = "Viento fuerte";
+"high wind, near gale" = "Viento fuerte, cerca a tormenta";
+"gale" = "Tormenta";
+"severe gale" = "Tormenta fuerte";
+"storm" = "Tempestad";
+"violent storm" = "Tempestad fuerte";
+"hurricane" = "Huracán";

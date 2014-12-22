@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  WeatherNearYou
+
+  Created by Konstantin Snegov on 24/11/14.
+  Copyright (c) 2014 Konstantin Snegov. All rights reserved.
+*/
+
+
+"NSLocationWhenInUseUsageDescription" = "Su sitio se utiliza para determinar el tiempo y la búsqueda de fotos al lado de usted.";
+"CFBundleDisplayName" = "Picture Weather";

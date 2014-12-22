@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  WeatherNearYou
+
+  Created by Konstantin Snegov on 24/11/14.
+  Copyright (c) 2014 Konstantin Snegov. All rights reserved.
+*/
+
+
+"NSLocationWhenInUseUsageDescription" = "Your location is used to show local weather and photos near you.";
+"CFBundleDisplayName" = "Picture Weather";
