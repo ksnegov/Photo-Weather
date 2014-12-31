@@ -12,7 +12,7 @@
 #import "SNGWeatherForecastViewModel.h"
 #import "SNGPhotosViewModel.h"
 
-@interface SNGWeatherViewController() <CLLocationManagerDelegate, SNGWeatherViewModelDelegate, SNGPhotosViewModelDelegate>
+@interface SNGWeatherViewController() <CLLocationManagerDelegate, SNGWeatherViewModelDelegate, SNGPhotosViewModelDelegate, UIScrollViewDelegate>
 
 @property (strong, nonatomic) CLLocation *currentLocation;
 @property (strong, nonatomic) CLLocationManager *locationManager;
@@ -38,6 +38,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *sunsetNameLabel;
 @property (weak, nonatomic) IBOutlet UILabel *sunsetLabel;
 @property (weak, nonatomic) IBOutlet UIButton *settingsButton;
+@property (weak, nonatomic) IBOutlet UIScrollView *forecastScrollView;
 
 @end
 
@@ -49,7 +50,6 @@
 static const double SNGWeatherViewControllerLocationAccuracy = 500;
 static const NSTimeInterval SNGWeatherViewControllerPhotoTimeTransitionChange = 2;
 static const NSTimeInterval SNGWeatherViewControllerChangeInterval = 4;
-
 
 #pragma mark -
 #pragma mark Getters
@@ -129,8 +129,14 @@ static const NSTimeInterval SNGWeatherViewControllerChangeInterval = 4;
     }
     
     /// TODO: show forecast
-//    for (SNGWeatherForecastViewModel *forecastModel in self.weather.forecast) {
-//    }
+}
+
+#pragma mark -
+#pragma mark UIScrollViewDelegate
+
+- (void)scrollViewDidScroll:(UIScrollView *)scrollView {
+    if (scrollView.contentOffset.y > 0  ||  scrollView.contentOffset.y < 0 )
+        scrollView.contentOffset = CGPointMake(scrollView.contentOffset.x, 0);
 }
 
 #pragma mark -
@@ -287,6 +293,8 @@ static const NSTimeInterval SNGWeatherViewControllerChangeInterval = 4;
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(becomeBackground:) name:UIApplicationDidEnterBackgroundNotification object:nil];
     
     self.settingsButton.tintColor = [UIColor whiteColor];
+    
+    // Fill scroll view view views
 }
 
 - (void)viewWillAppear:(BOOL)animated {
