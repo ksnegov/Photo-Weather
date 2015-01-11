@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-WeatherNearYou-ILTranslucentView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-WeatherNearYou-NYSegmentedControl.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -37,32 +32,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0C979C268D19987CC7F695A5</key>
+		<key>26B983FDE96B74490C542F07</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0D0095D492FAF268D70DBEB2</key>
+		<key>5439DEA8858B161C948FD62C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8FFAB37402BC5B1C7537A2B7</key>
+		<key>8E87831AB919CAAEC4D29034</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9D338DE629BC185EFAFF2D5D</key>
+		<key>D1391C3DFAE9F5BF9BB0D942</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CB5659E47A45AA1DAF61E261</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DDA15BDF4C2C5373B84E9570</key>
+		<key>D2C0E3487A44BAE9126787CB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

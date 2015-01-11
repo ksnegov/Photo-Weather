@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0D0095D492FAF268D70DBEB2"
+               BlueprintIdentifier = "5439DEA8858B161C948FD62C"
                BuildableName = "libPods-WeatherNearYou-NYSegmentedControl.a"
                BlueprintName = "Pods-WeatherNearYou-NYSegmentedControl"
                ReferencedContainer = "container:Pods.xcodeproj">
